@@ -1,0 +1,3 @@
+http://stackoverflow.com/questions/15732853/how-to-connect-android-app-to-mysql-database
+
+http://developer.android.com/training/basics/network-ops/connecting.html
